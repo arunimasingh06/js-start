@@ -25,3 +25,8 @@ const myFunction = function(){
     console.log(typeof(myFunction))
 }
 myFunction
+
+//+++++++++++
+//stack memory
+//primitive>>>>stack memory
+//non-primitive>>>>heap memory
